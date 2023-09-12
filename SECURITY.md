@@ -34,7 +34,7 @@ Vulnerability has been observed in...
   - by `java -jar halo.jar`? [n/y]: 
     if yes for the question above,
     - `uname -a`: 
-    - `java -version`: 
+    - `java -version`: 1
  
 - Affected by Halo version(s) [e.g. v2.4.0]: 
 - Vulnerability self-scoring [1-10]: 
