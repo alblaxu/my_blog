@@ -14,7 +14,7 @@ Halo currently supports the versions listed below, where as:
 | 1.x     | :white_check_mark: |
 | 2.x     | :white_check_mark: |
 
-## Reporting a Vulnerability
+## Reporting a Vulnerability 
 
 We first appreciate and are very thankful that you've found a vulnerability issue in Halo! By disclosing such issue to
 Halo development team you are helping Halo to become a much more safer project than before! ;)
